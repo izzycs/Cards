@@ -8,4 +8,5 @@
 
 -buttons will redirect to imdb site regarding the anime 
 
+![Demo of Card component](https://imgur.com/a/yzAdsMw)
 
