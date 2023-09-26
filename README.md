@@ -1,3 +1,3 @@
 # Cards
 reusable react cards components
-![Demo of Card component](https://imgur.com/jQZajoz)
+![Demo of Card component](https://imgur.com/gallery/yzAdsMw)
